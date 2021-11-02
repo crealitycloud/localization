@@ -22,3 +22,8 @@ The Creality Cloud app currently supports English, French, Simplified Chinese & 
 - Arabic
 - Spanish
 - Portuguese
+- German
+- Hindi
+
+## How to become a volunteer
+Simply write to haodilijun@creality.com with your name on Facebook & language pair (e.g. EN-DE) and we will invite you to the private Facebook group for localization volunteers.
