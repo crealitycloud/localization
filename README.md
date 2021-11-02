@@ -1,7 +1,8 @@
 # Volunteer Localization Opportunity for the Creality Cloud App
  We are looking for hobbyists from the 3D printing community to translate the Creality Cloud app on a volunteer basis into several languages. As a volunteer translator, you can help us with the localization process as well as receive rewards from us.
 ## About us
-Creality Cloud is world's 1st all-in-one platform for 3D printing creation and an ever-growing community for everyone.
+Created in 2020, Creality Cloud is world's 1st all-in-one platform for 3D printing creation and an ever-growing community for everyone. Today, we have over 300,000 3D printing hobbyists registered on our platform.
+
 By using the Creality Cloud app, you can remote control and monitor your 3D printer on your phone or tablet. Here are some of the things the app allows you to do:
 
 - Manually control a Creality 3D printer
