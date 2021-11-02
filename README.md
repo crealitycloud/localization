@@ -30,7 +30,7 @@ The Creality Cloud app currently supports English, French, Simplified Chinese & 
 - Portuguese
 - German
 - Hindi
-
+- All languages are welcomed!
 ## What you can get from volunteering with us
 - Given credit and special thank-you note in the Creality Cloud app, Apple App Store and Google Play Store
 - Receive Cuvacoins that can be used to exchange products (e.g. 3D printers, filaments, Kindles, etc.) in our app's built-in Gift Shop
