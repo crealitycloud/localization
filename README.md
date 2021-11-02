@@ -16,7 +16,7 @@ Android: [https://tinyurl.com/CrealityAndroid](https://tinyurl.com/CrealityAndro
 
 ## What we are looking for
 The Creality Cloud app currently supports English, French, Simplified Chinese & Traditional Chinese. Our goal is to let people all over the world use our products without barriers. Therefore, we need your help to deliver our product to the rest of the world.
-### Language in urgent need
+### Target language in need
 - Russian
 - Turkish
 - Arabic
