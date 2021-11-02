@@ -33,6 +33,6 @@ The Creality Cloud app currently supports English, French, Simplified Chinese & 
 
 ## How to become a volunteer
 Simply write to haodilijun@creality.com with your name on Facebook & language pair (e.g. EN-DE) and we will invite you to the private Facebook group for localization volunteers.
-You can preview the [soucre text] (https://docs.google.com/spreadsheets/d/1kfxqzggUy1JelGkCr-MkGSq0YnHi50fD/edit?usp=sharing&ouid=108050489560409446127&rtpof=true&sd=true) before applying for become a volunteer. 
+You can preview the soucre text (https://crealitycloud.tiny.us/54svzfhw) before applying for become a volunteer. 
 
 ### We look forward to working with you.
