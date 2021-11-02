@@ -33,7 +33,8 @@ The Creality Cloud app currently supports English, French, Simplified Chinese & 
 ## What you can get from volunteering with us
 - Given credit and special thank-you note in the Creality Cloud app, Apple App Store and Google Play Store
 - Receive Cuvacoins that can be used to exchange products (e.g. 3D printers, filaments, Kindles, etc.) in our app's built-in Gift Shop
-- Early access to our beta softwares
+- Early access to our beta software
+- Qualified for exclusive giveaways
 - More benefits to be added
 
 ## How to become a volunteer
