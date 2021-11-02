@@ -10,7 +10,7 @@ By using the Creality Cloud app, you can remote control and monitor your 3D prin
 - Slice models using the app
 - Design lithophane and moon lamp like editing Instagram photos
 
-CREALITY CLOUD, EXPLAINED: [https://crealitycloud.tiny.us/tcaud4a6]
+CREALITY CLOUD, EXPLAINED: [https://crealitycloud.tiny.us/tcaud4a6](CREALITY CLOUD, EXPLAINED)
 
 Intro video: [https://crealitycloud.tiny.us/pnx4k2mb]
 
