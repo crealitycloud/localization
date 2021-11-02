@@ -13,3 +13,7 @@ By using the Creality Cloud app, you can remote control and monitor your 3D prin
 iOS: [https://tinyurl.com/iOSCreality](https://tinyurl.com/iOSCreality)
 
 Android: [https://tinyurl.com/CrealityAndroid](https://tinyurl.com/CrealityAndroid)
+
+## What we are looking for
+The Creality Cloud app currently supports English, French, Simplified Chinese & Traditional Chinese. Our goal is to let people all over the world use our products without barriers. Therefore, we need your help to deliver our product to the rest of the world.
+### Language in urgent need
